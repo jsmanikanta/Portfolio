@@ -1,7 +1,7 @@
 const textElement = document.querySelector(".animate");
 
 const textload = () => {
-    const texts = ["Front End Developer ", "Student ", "Freelancer ", "Event Coordinator "];
+    const texts = ["Front End Developer ", "Student ", "Event Coordinator "];
     let currentIndex = 0;
     let currentCharIndex = 0;
     let isDeleting = false;
